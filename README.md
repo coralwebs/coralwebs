@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @coralwebs
-- 👀 I’m interested in travel and photography
-- 🌱 I’m currently learning python
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email ghasemi1984@yahoo.com
 
